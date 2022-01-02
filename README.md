@@ -1,6 +1,6 @@
 # Sup, I'm [Mel](https://mlks1981.repl.co) - aka Electron <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="SVG" height="50px" src="https://profile-counter.glitch.me/{Mlks1981}/count.svg" />
+<img align="right" alt="SVG" height="50px" src="https://visits.mlks1981.repl.co/{Mlks1981}/count.svg" />
 
 ## I'm a Backend Dev
 
