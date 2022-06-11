@@ -1,19 +1,17 @@
-# Sup, I'm [Mel](https://mlks1981.repl.co) - aka Electron <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Sup, I'm [Mel](https://mlks1981.repl.co) - aka 7blurzz
 
 <img align="right" alt="SVG" height="50px" src="https://profile-counter.glitch.me/{Mlks1981}/count.svg" />
 
 ## I'm a Backend Dev
 
-- I'm bored idk what to do
-- I code for hobby
-- Dm me @ Mlk1981#6034
-- I'm a guy
-- We can always collab
-- My life doesn't suck because I don't use twitter
-- Get a life if you're using arch or gentoo
+- I make Discord bots for hobby
+- Own [7deep](https://discord.com/api/oauth2/authorize?client_id=945036695592640593&permissions=8&scope=bot) 'n [2deep](https://discord.com/api/oauth2/authorize?client_id=984278524208750672&permissions=8&scope=bot) (DC Bots)
+- Feel free to contact me @ 7blurzz#0007
+- Owner of [7deep](https://discord.gg/7deep) (DC Server)
+- Interested in new projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mlks1981)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pGHKANMyXr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7deep)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meliksahagcadag@gmail.com)
 
 ---
@@ -21,7 +19,7 @@
 <!--START_SECTION:waka-->
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mlks1981&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mlks1981&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mlks1981&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
